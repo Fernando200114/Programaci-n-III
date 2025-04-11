@@ -1,0 +1,58 @@
+
+.texto {
+    color:plum;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    line-height: 1.6;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    letter-spacing: 1ch;
+    word-spacing: 5px;
+    white-space: nowrap;
+}
+
+
+.texto1 {
+    color:royalblue;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    line-height: 1.6;
+    text-align: left;
+    text-decoration: underline;
+    text-transform: capitalize;
+    letter-spacing: 1ch;
+    word-spacing: 5px;
+    white-space: nowrap;
+}
+
+
+.texto2 {
+    color:greenyellow;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    line-height: 1.6;
+    text-align: right;
+    text-decoration: underline;
+    text-transform: capitalize;
+    letter-spacing: 1ch;
+    word-spacing: 5px;
+    white-space: nowrap;
+}
+
+.texto3 {
+    color:purple;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    line-height: 1.6;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    letter-spacing: 1ch;
+    word-spacing: 5px;
+    white-space: nowrap;
+}
